@@ -7,7 +7,7 @@ Hoje trago um artigo bem interessante que é como podemos criar assinaturas digi
 
 Clique no link abaixo para assistir o vídeo gratuitamente no Youtube.
 
-[Como CRIAR ASSINATURA DIGITAL NO IONIC 6](https://youtu.be/Did17pzld3k)
+[ASSISTA NO YOUTUBE - Como CRIAR ASSINATURA DIGITAL NO IONIC 6](https://youtu.be/Did17pzld3k)
 
 
 ## Vamos ao código
